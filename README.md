@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/xiwang-online/People-Detection-System">
+	<a href="https://github.com/xiwang-online/Electronic-Wooden-Fish">
 		<img src="./img/logo.png" width="200px" alt="Wooden Fish" /><br />
 		<b>Electronic Wooden Fish</b>
 	</a><br />
